@@ -7,7 +7,7 @@ Simple VFP9 font picker using labels which show their content in the actual font
 How to
 ========
 
-Download ZIP or clone locally, to the directory, and type "do main" from VFP command prompt.  MODIFY CLASS fontline OF fontpick.vcx, and MODIFY CLASS fontpick OF fontpick.vcx get you to the bulk of the code.  There is a little code on MODIFY FORM frmSample.  The x.fontpick.txtForm object holds the font attributes that can be referenced by an external application. There is no "Select" or "Choose" button.  Whatever is there is there.
+Download ZIP or clone locally, go to the directory, and type "do main" from VFP command prompt.  MODIFY CLASS fontline OF fontpick.vcx, and MODIFY CLASS fontpick OF fontpick.vcx get you to the bulk of the code.  There is a little code on MODIFY FORM frmSample.  The x.fontpick.txtFont object holds the font attributes that can be referenced by an external application. There is no "Select" or "Choose" button.  Whatever is there is there.
 
 
 Reporting Bugs
